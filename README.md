@@ -12,6 +12,6 @@
 
 один из сертификатов (на главной странице)
 
+  <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/11-1.png" width="500px"/>
 
 
-https://github.com/ofrsed/ofrsed/blob/main/certificates/11-1.png
