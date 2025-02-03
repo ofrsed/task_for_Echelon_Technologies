@@ -8,3 +8,10 @@
 
 запустить тест 
 `pytest -v`
+
+
+один из сертификатов (на главной странице)
+
+
+
+https://github.com/ofrsed/ofrsed/blob/main/certificates/11-1.png
